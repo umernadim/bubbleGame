@@ -15,8 +15,7 @@ A fun and simple **bubble-clicking game** built using **HTML, CSS, and JavaScrip
 
 ## 🚀 Live Demo
 
-👉 [Play the Game on GitHub Pages](https://yourusername.github.io/bubble-game/)
-*(Replace the link with your actual GitHub Pages link)*
+👉(https://umernadim.github.io/bubbleGame/)
 
 ---
 
